@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./GitHub 3.tmTheme",
+	"colors": {
+		"editor.background": "#ffffff",
+		"editorCursor.foreground": "#000000",
+		"editor.foreground": "#000000",
+		"editorWhitespace.foreground": "#000000",
+		"editor.lineHighlightBackground": "#f6ecb9",
+		"editor.selectionBackground": "#add2fc"
+	},
+	"name": "GitHub 3"
+}

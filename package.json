@@ -1,0 +1,36 @@
+{
+    "name": "github-3",
+    "displayName": "GitHub 3",
+    "description": "VS Code theme inspired by the GitHub syntax highlighting style (version 3)",
+    "keywords": [
+        "theme",
+        "github"
+    ],
+    "version": "1.0.0",
+    "publisher": "sergeymakinen",
+    "author": {
+        "name": "Sergey Makinen",
+        "email": "sergey@makinen.ru"
+    },
+    "homepage": "https://github.com/sergeymakinen/vscode-github-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sergeymakinen/vscode-github-theme"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GitHub 3",
+                "uiTheme": "vs",
+                "path": "./themes/GitHub 3-color-theme.json"
+            }
+        ]
+    }
+}

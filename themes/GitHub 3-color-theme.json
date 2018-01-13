@@ -5,8 +5,9 @@
 		"editorCursor.foreground": "#000000",
 		"editor.foreground": "#000000",
 		"editorWhitespace.foreground": "#000000",
-		"editor.lineHighlightBackground": "#f6ecb9",
-		"editor.selectionBackground": "#add2fc"
+		"editor.lineHighlightBackground": "#fffbdd",
+		"editor.selectionBackground": "#add2fc",
+		"editorLineNumber.foreground": "#babbbd"
 	},
 	"name": "GitHub 3"
 }

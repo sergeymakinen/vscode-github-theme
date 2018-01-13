@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.1.1] - 2018-01-13
+
+- Updates a line highlight color
+- Updates a line number color
+
 ## [1.1.0] - 2017-10-01
 
 - Fall of 2017 update

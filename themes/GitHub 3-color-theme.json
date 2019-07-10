@@ -1,13 +1,24 @@
 {
 	"tokenColors": "./GitHub 3.tmTheme",
 	"colors": {
+		"activityBar.background": "#f6f8fa",
+		"activityBar.border": "#e1e4e8",
+		"activityBar.foreground": "#000000",
 		"editor.background": "#ffffff",
-		"editorCursor.foreground": "#000000",
 		"editor.foreground": "#000000",
-		"editorWhitespace.foreground": "#000000",
 		"editor.lineHighlightBackground": "#fffbdd",
 		"editor.selectionBackground": "#add2fc",
-		"editorLineNumber.foreground": "#babbbd"
+		"editorCursor.foreground": "#000000",
+		"editorGroupHeader.tabsBackground": "#fafbfc",
+		"editorLineNumber.foreground": "#babbbd",
+		"editorWhitespace.foreground": "#000000",
+		"sideBar.background": "#ffffff",
+		"sideBar.border": "#e1e4e8",
+		"sideBarSectionHeader.background": "#f6f8fa",
+		"sideBarSectionHeader.border": "#d1d5da",
+		"tab.activeBorderTop": "#e36209",
+		"tab.border": "#e1e4e8",
+		"tab.inactiveBackground": "#fafbfc"
 	},
 	"name": "GitHub 3"
 }

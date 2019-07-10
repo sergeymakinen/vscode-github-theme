@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.0] - 2019-07-10
+
+- Updates a VS Code sidebar/activity/tab colors to match GitHub
+
 ## [1.1.1] - 2018-01-13
 
 - Updates a line highlight color

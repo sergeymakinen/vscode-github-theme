@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.1] - 2019-12-16
+
+- Fixes a line highlight color to match JSON theme settings
+
 ## [1.2.0] - 2019-07-10
 
 - Updates a VS Code sidebar/activity/tab colors to match GitHub

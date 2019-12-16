@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.2] - 2019-12-16
+
+- Updates screenshots
+
 ## [1.2.1] - 2019-12-16
 
 - Fixes a line highlight color to match JSON theme settings

@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.3.0] - 2020-07-25
+
+- Updates a VS Code titlebar/statusbar colors to match GitHub (#2)
+
 ## [1.2.2] - 2019-12-16
 
 - Updates screenshots

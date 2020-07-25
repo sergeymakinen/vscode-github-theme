@@ -16,9 +16,20 @@
 		"sideBar.border": "#e1e4e8",
 		"sideBarSectionHeader.background": "#f6f8fa",
 		"sideBarSectionHeader.border": "#d1d5da",
+		"statusBar.background": "#ffffff",
+		"statusBar.border": "#e1e4e8",
+		"statusBar.debuggingBackground": "#e36209",
+		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.foreground": "#000000",
+		"statusBar.noFolderBackground": "#ffffff",
 		"tab.activeBorderTop": "#e36209",
 		"tab.border": "#e1e4e8",
-		"tab.inactiveBackground": "#fafbfc"
+		"tab.inactiveBackground": "#fafbfc",
+		"titleBar.activeBackground": "#24292e",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.border": "#e1e4e8",
+		"titleBar.inactiveBackground": "#3f4448",
+		"titleBar.inactiveForeground": "#cfd0d1"
 	},
 	"name": "GitHub 3"
 }
